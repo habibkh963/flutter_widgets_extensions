@@ -120,8 +120,3 @@ extension StringX on String {
 
 ---
 
-# ✅ Ready to Use
-كل الإكستنشنز جاهزين للاستخدام — انسخ الملف، وحطه بأي مكان بمشروعك، وراح يطلعوا كلهم بالـ IntelliSense مع الشرح.
-
-إذا بدك أرتّبهم بملفات منفصلة (sized_box.dart – padding.dart – grid.dart…), خبرني يا خيي!
-
